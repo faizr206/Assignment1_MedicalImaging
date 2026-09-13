@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+data/
+assignment1_labels.csv
+rsna_to_nih_mapping.csv
