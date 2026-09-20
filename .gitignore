@@ -221,4 +221,5 @@ __marimo__/
 data/
 assignment1_labels.csv
 rsna_to_nih_mapping.csv
-best_model.pth
+
+model_weight/
