@@ -224,3 +224,5 @@ rsna_to_nih_mapping.csv
 
 model_weight/
 model/
+code.py
+masked_examples/
